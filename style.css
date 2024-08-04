@@ -7,21 +7,21 @@ body {
 }
 
 #proyecto-1 {
-background-image: url(Captura\ de\ pantalla\ 2024-07-30\ 114336.png);
+background-image: url(assets/clon\ google.jpg);
 background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
 }
 
 #proyecto-2 {
-    background-image: url(Gamificacion.jpg);
+    background-image: url(assets/gamificación.jpg);
     background-repeat: no-repeat;
         background-position: center;
         background-size: contain;
     }
 
 #proyecto-3 {
-    background-image: url(Chocoflan.jpg);
+    background-image: url(assets/postres\ cherry.jpg);
     background-repeat: no-repeat;
         background-position: center;
         background-size: contain;
